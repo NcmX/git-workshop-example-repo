@@ -40,12 +40,25 @@ public class OddEven {
     }
 
 
-    /**
-     * I totally return true all the time
-     */
+
+
+
+    public static void bla(){
+        System.out.println("");
+    }
+
+
+    public void charlottesMethode(){
+return ;
+
+}
+
+
     public boolean iReturnTrue() {
         return true;
+
     }
+
 
     public void showDialog() {
         /*
