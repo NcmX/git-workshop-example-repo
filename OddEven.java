@@ -37,8 +37,14 @@ public class OddEven {
 
 
 
+
     public static void bla(){
         System.out.println("");
+    }
+
+    public boolean iReturnTrue() {
+        return true;
+
     }
 
 
