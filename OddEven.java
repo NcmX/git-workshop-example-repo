@@ -39,6 +39,14 @@ public class OddEven {
        System.out.println("Das hab ich gemacht!");
     }
 
+
+    /**
+     * I totally return true all the time
+     */
+    public boolean iReturnTrue() {
+        return true;
+    }
+
     public void showDialog() {
         /*
          * "try" makes sure nothing goes wrong. If something does,
