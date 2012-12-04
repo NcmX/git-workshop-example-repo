@@ -37,10 +37,19 @@ public class OddEven {
 
 
 
+
     public void charlottesMethode(){
-return;
+return ;
 
 }
+
+    /**
+     * I totally return true all the time
+     */
+    public boolean iReturnTrue() {
+        return true;
+    }
+
 
 
 
