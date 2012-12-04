@@ -35,13 +35,9 @@ public class OddEven {
        number.showDialog();
     }
 
-
-
-    // ========================
-    // Insert code here please!
-    // ========================
-
-
+    public void stephanMethode() {
+       System.out.println("Das hab ich gemacht!");
+    }
 
     public void showDialog() {
         /*
