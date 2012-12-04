@@ -38,14 +38,23 @@ public class OddEven {
 
 
 
+
     public static void bla(){
         System.out.println("");
     }
+
+
+    public void charlottesMethode(){
+return ;
+
+}
+
 
     public boolean iReturnTrue() {
         return true;
 
     }
+
 
 
 
