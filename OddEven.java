@@ -37,9 +37,9 @@ public class OddEven {
 
 
 
-    // ========================
-    // Insert code here please!
-    // ========================
+    public static void bla(){
+        System.out.println("");
+    }
 
 
 
