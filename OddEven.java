@@ -36,10 +36,12 @@ public class OddEven {
     }
 
 
-
-    // ========================
-    // Insert code here please!
-    // ========================
+    /**
+     * I totally return true all the time
+     */
+    public boolean iReturnTrue() {
+        return true;
+    }
 
 
 
