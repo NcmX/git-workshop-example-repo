@@ -37,9 +37,10 @@ public class OddEven {
 
 
 
-    // ========================
-    // Insert code here please!
-    // ========================
+    public void charlottesMethode(){
+return;
+
+}
 
 
 
